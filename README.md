@@ -23,3 +23,25 @@ Builder is a creational design pattern that lets you construct complex objects s
 
 Creating many identical objects individually is expensive in terms of computing power. Good alternative - cloning, because it makes a copy in the memory space instead of building individual objects respectively, from scratch the usual way.
 Create a prototypical instance first, clone it whenever you need the replica
+
+# STRUCTURAL PATTERNS
+
+### **DECORATOR**
+
+Allows users to add new features to existing objects without changing their structures
+
+### **PROXY**
+
+Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object.
+
+### **ADAPTER**
+
+Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
+### **COMPOSITE**
+
+The composite pattern describes a group of objects that are treated the same way as a single instance of the same type of object.
+
+### **BRIDGE**
+
+Bridge is used when we need to decouple an abstraction from its implementation so that the two can vary independently.
