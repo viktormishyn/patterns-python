@@ -45,3 +45,26 @@ The composite pattern describes a group of objects that are treated the same way
 ### **BRIDGE**
 
 Bridge is used when we need to decouple an abstraction from its implementation so that the two can vary independently.
+
+# BEHAVIORAL PATTERNS
+
+### **OBSERVER**
+
+The observer pattern is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
+
+### **VISITOR**
+
+Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.
+
+### **ITERATOR**
+
+Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation
+
+### **STRATEGY**
+
+In Strategy pattern, a class behavior or its algorithm can be changed at run time.
+
+### **CHAIN OF RESPONSIBILITY**
+
+Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers.
+Decouples the request and its processing
